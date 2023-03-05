@@ -1,0 +1,15 @@
+
+.Pager{
+    width: 320px;
+    gap: 5px;
+}
+
+.itemBtn{
+    width: 84px;
+    height: 40px;
+    border: none;
+    border-radius: 100px;
+    background: linear-gradient(0deg, rgba(8, 30, 52, 0.05), rgba(8, 30, 52, 0.05)),
+         linear-gradient(0deg, #F0F0F0, #F0F0F0);
+
+}
